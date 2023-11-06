@@ -56,11 +56,11 @@ Desarrollador de software | 2012 – 2015**
 
 ### Educación
 
-#### Analista de sistemas
-Universidad Ucinf | 2009 - 2011
+- **Analista de sistemas**  
+  Universidad Ucinf | 2009 - 2011
 
-#### Técnico en Telecomunicaciones
-Colegio Cardenal Raúl Silva | 2008
+- **Técnico en Telecomunicaciones**  
+  Colegio Cardenal Raúl Silva | 2008
 
 ***
 
